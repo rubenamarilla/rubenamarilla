@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Rubén Amarilla
 
-- 📧 Correo electrónico: ruben.amarilla.rda@outlook.com
+- 📧 Correo electrónico: daniel.amarilla.rda@gmail.com
 - 🟦 LinkedIn: [Rubén Amarilla](https://www.linkedin.com/in/rubenamarilla/)
 - ⬛ GitHub: [rubenamarilla](https://github.com/rubenamarilla)
 - 📍 Ubicación: Encarnación, Paraguay
